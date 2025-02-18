@@ -1,0 +1,19 @@
+.h-container{
+    display: flex;
+    background-color: #2b1748;
+}
+
+.h-left{
+    display: flex;
+}
+
+.h-left button{
+    width: 78;
+    height: 32;
+    padding-top: 6px;
+    padding-right: 18px;
+    padding-bottom: 6px;
+    padding-left: 18px;
+    gap: 6px;
+    border-radius: 20px;
+}
